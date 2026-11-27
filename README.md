@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Art-Image-Synthesis/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-Art-Image-Synthesis?style=flat-square&logo=github&color=gold" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Art-Image-Synthesis/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-Art-Image-Synthesis?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Art-Image-Synthesis/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Generative-AI-Art-Image-Synthesis?style=flat-square&logo=github&color=blue" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -76,7 +76,7 @@ The global Generative AI Image Synthesis, Creative Design & Visual Content marke
 
 *Sorted descending by GitHub stargazer count. Badges link directly to each repository's stargazers page.*
 
-| 📦 Repository & Stars | 📜 License & Cost | ⚙️ Focus Area | 📝 Description |
+| 📦 Repository & GitHub_Stars | 📜 License & Cost | ⚙️ Focus Area | 📝 Description |
 | :--- | :--- | :--- | :--- |
 | **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** <br> [![Stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) | **AGPL-3.0** <br> (100% Free / Self-hosted) | Local WebUI Studio | The original standard browser GUI for Stable Diffusion, featuring extensive extension ecosystems, textual inversions, inpainting, and prompt tooling. |
 | **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** <br> [![Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers) | **GPL-3.0** <br> (100% Free / Self-hosted) | Node-Based Modular Pipeline | The most powerful and modular visual graph/node-based GUI and backend for FLUX, SD3.5, SDXL, and custom diffusion pipeline execution. |
